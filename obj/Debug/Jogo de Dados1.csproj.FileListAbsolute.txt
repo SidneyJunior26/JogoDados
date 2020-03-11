@@ -1,0 +1,10 @@
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\Jogo de Dados1\Jogo de Dados1\bin\Debug\Jogo de Dados1.exe.config
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\Jogo de Dados1\Jogo de Dados1\bin\Debug\Jogo de Dados1.exe
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\Jogo de Dados1\Jogo de Dados1\bin\Debug\Jogo de Dados1.pdb
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\Jogo de Dados1\Jogo de Dados1\obj\Debug\Jogo de Dados1.csprojAssemblyReference.cache
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\Jogo de Dados1\Jogo de Dados1\obj\Debug\Jogo_de_Dados1.Form1.resources
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\Jogo de Dados1\Jogo de Dados1\obj\Debug\Jogo_de_Dados1.Properties.Resources.resources
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\Jogo de Dados1\Jogo de Dados1\obj\Debug\Jogo de Dados1.csproj.GenerateResource.cache
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\Jogo de Dados1\Jogo de Dados1\obj\Debug\Jogo de Dados1.csproj.CoreCompileInputs.cache
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\Jogo de Dados1\Jogo de Dados1\obj\Debug\Jogo de Dados1.exe
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\Jogo de Dados1\Jogo de Dados1\obj\Debug\Jogo de Dados1.pdb
